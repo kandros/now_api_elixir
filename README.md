@@ -1,6 +1,6 @@
 > This is a work in progress project  
 
-Wrapper for (Now)[https://zeit.co/api] REST api written in elixir-lang
+Wrapper for Zeit [Now](https://zeit.co/api) REST api written in elixir-lang
 
 # Now Api Client
 
